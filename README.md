@@ -1,16 +1,12 @@
-# netflix_clone
+# Netflix Clone Mobile App 
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/k09xHfKibpY)
 
-## Getting Started
+### Netflix Clone Mobile App
 
-This project is a starting point for a Flutter application.
+A nice clean Netflix Clone Mobile App UI.Today I will show you how you can create Netflix Clone App using flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Netflix Clone Mobile App UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/127872018-6577e81b-072b-4a3e-aa41-61eda3368625.png" alt="portfolio" width="600">
